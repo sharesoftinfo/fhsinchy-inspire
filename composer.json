@@ -1,0 +1,12 @@
+{
+    "name": "fhsinchy/inspire",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fhsinchy\\Inspire\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
